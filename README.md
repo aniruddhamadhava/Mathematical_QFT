@@ -1,8 +1,8 @@
 # Mathematical Quantum Field Theory (2023)
 
-This repository contains lecture notes covering introductory mathematical quantum field theory (QFT). These notes will be updaed roughly once a week, and will cover the past week's readings and select exercises. As a disclaimer, these notes are not proof-read for complete accuracy (though I will strive to be as accurate as possible).
+This repository contains lecture notes covering introductory mathematical background for quantum field theory (QFT). As a disclaimer, these notes are not proof-read for complete accuracy (though I will strive to be as accurate as possible).
 
-As we go through the ourse, I will routinely update this README file, with a list of covered topics. 
+As we go through the course, I will routinely update this README file, with a list of covered topics. 
 
 ## Topics Covered
 
